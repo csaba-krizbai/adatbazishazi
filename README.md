@@ -1,8 +1,8 @@
 # adatbazishazi
 
 Csoporttagok neve:
-Krizbai Csaba
-Tompa Áron
+Krizbai Csaba,
+Tompa Áron,
 Kovács András
 
 
